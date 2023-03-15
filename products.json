@@ -4,49 +4,49 @@
       "id": "1",
       "title": "Открытка 8 марта",
       "price": "500.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B01.png"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B01.png?raw=true"
     },
     {
       "id": "2",
       "title": "Открытка 8 марта",
       "price": "120.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B02.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B02.jpg?raw=true"
     },
     {
       "id": "3",
       "title": "Открытка С днем рождение",
       "price": "60.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B03.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B03.jpg?raw=true"
     },
     {
       "id": "4",
       "title": "Открытка С днем дедушек",
       "price": "30.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B04.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B05.jpg?raw=true"
     },
     {
       "id": "5",
       "title": "Открытка С днем матери",
       "price": "150.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B05.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B05.jpg?raw=true"
     },
     {
       "id": "6",
       "title": "Открытка врачам",
       "price": "100.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B06.png"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B06.png?raw=true"
     },
     {
       "id": "7",
       "title": "Открытка Люблю тебя",
       "price": "155.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B07.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B07.jpg?raw=true"
     },
     {
       "id": "8",
       "title": "Открытка С новым годом",
       "price": "220.00",
-      "img": "https://gitlab.tools.russianpost.ru/analysts/development-homeworks/db-homeworks-source/-/raw/master/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B08.jpg"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B08.jpg?raw=true"
     }
   ]
 }
