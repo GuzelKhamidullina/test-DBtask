@@ -14,7 +14,7 @@
     },
     {
       "id": "3",
-      "title": "Открытка С днем рождение",
+      "title": "Открытка С днем рождения",
       "price": "60.00",
       "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B03.jpg?raw=true"
     },
@@ -22,7 +22,7 @@
       "id": "4",
       "title": "Открытка С днем дедушек",
       "price": "30.00",
-      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B05.jpg?raw=true"
+      "img": "https://github.com/GuzelKhamidullina/test-DBtask/blob/main/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B04.jpg?raw=true"
     },
     {
       "id": "5",
